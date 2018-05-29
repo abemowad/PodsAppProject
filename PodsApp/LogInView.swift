@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import GeoFire
 
 class LogInView: UIViewController
 {

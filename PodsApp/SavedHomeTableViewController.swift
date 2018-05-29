@@ -10,12 +10,16 @@ import UIKit
 
 class SavedHomeTableViewController: UITableViewController
 {
-
+    var savedHomes = [Home]()
+    
+    @IBOutlet weak var typeLabel: HomeCell!
+    
     override func viewDidLoad()
     {
         super.viewDidLoad()
 
         self.tableView.rowHeight = 100
+        self.tableView.reloadData()
     }
 
     override func didReceiveMemoryWarning()
@@ -35,18 +39,28 @@ class SavedHomeTableViewController: UITableViewController
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int
     {
         // #warning Incomplete implementation, return the number of rows
-        return 1
+        return savedHomes.count
     }
 
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "homeCell", for: indexPath) as? HomeCell
+        
+        let object = savedHomes[(indexPath as NSIndexPath).row]
+        
+        cell?.typeLabel.text = object.type
 
         // Configure the cell...
 
         return cell!
     }
 
+    override func tableView(_ tableView: UITableView, canEditRowAt indexPath: IndexPath) -> Bool
+    {
+        // Return false if you do not want the specified item to be editable.
+        return false
+    }
+    
     @IBAction func unwindToSavedHomes(segue: UIStoryboardSegue)
     {
         

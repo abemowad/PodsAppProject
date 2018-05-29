@@ -23,6 +23,16 @@
 		E28DAB8120BB9AF8002410F1 /* HomeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28DAB8020BB9AF8002410F1 /* HomeCell.swift */; };
 		E28DAB8320BB9CF9002410F1 /* SavedHomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28DAB8220BB9CF9002410F1 /* SavedHomeTableViewController.swift */; };
 		E28DAB8F20BC8466002410F1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E28DAB8E20BC8466002410F1 /* GoogleService-Info.plist */; };
+		E28DAB9220BD2F44002410F1 /* SearchHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28DAB9120BD2F44002410F1 /* SearchHomeViewController.swift */; };
+		E28DAB9420BD41CB002410F1 /* HomeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28DAB9320BD41CB002410F1 /* HomeDetailViewController.swift */; };
+		E28DAB9620BD4B79002410F1 /* question.png in Resources */ = {isa = PBXBuildFile; fileRef = E28DAB9520BD4B78002410F1 /* question.png */; };
+		E28DAB9820BD56BC002410F1 /* RestaurantsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28DAB9720BD56BC002410F1 /* RestaurantsTableViewController.swift */; };
+		E28DAB9A20BD6035002410F1 /* PlacesTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28DAB9920BD6035002410F1 /* PlacesTabBarController.swift */; };
+		E28DAB9C20BDBA2C002410F1 /* BarsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28DAB9B20BDBA2C002410F1 /* BarsTableViewController.swift */; };
+		E28DAB9E20BDBB18002410F1 /* CoffeeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28DAB9D20BDBB18002410F1 /* CoffeeTableViewController.swift */; };
+		E28DABA020BDE416002410F1 /* restaurants.png in Resources */ = {isa = PBXBuildFile; fileRef = E28DAB9F20BDE415002410F1 /* restaurants.png */; };
+		E28DABA420BDE5AB002410F1 /* martini.png in Resources */ = {isa = PBXBuildFile; fileRef = E28DABA320BDE5AA002410F1 /* martini.png */; };
+		E28DABA620BDE61D002410F1 /* coffee.png in Resources */ = {isa = PBXBuildFile; fileRef = E28DABA520BDE61C002410F1 /* coffee.png */; };
 		E2D74FC620ADF222007888CC /* people.png in Resources */ = {isa = PBXBuildFile; fileRef = E2D74FC520ADF221007888CC /* people.png */; };
 		E2D74FC820ADF41B007888CC /* house.png in Resources */ = {isa = PBXBuildFile; fileRef = E2D74FC720ADF41B007888CC /* house.png */; };
 		E2D74FCA20ADF586007888CC /* person.png in Resources */ = {isa = PBXBuildFile; fileRef = E2D74FC920ADF585007888CC /* person.png */; };
@@ -73,6 +83,16 @@
 		E28DAB8020BB9AF8002410F1 /* HomeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeCell.swift; sourceTree = "<group>"; };
 		E28DAB8220BB9CF9002410F1 /* SavedHomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedHomeTableViewController.swift; sourceTree = "<group>"; };
 		E28DAB8E20BC8466002410F1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E28DAB9120BD2F44002410F1 /* SearchHomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchHomeViewController.swift; sourceTree = "<group>"; };
+		E28DAB9320BD41CB002410F1 /* HomeDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeDetailViewController.swift; sourceTree = "<group>"; };
+		E28DAB9520BD4B78002410F1 /* question.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = question.png; sourceTree = "<group>"; };
+		E28DAB9720BD56BC002410F1 /* RestaurantsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantsTableViewController.swift; sourceTree = "<group>"; };
+		E28DAB9920BD6035002410F1 /* PlacesTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesTabBarController.swift; sourceTree = "<group>"; };
+		E28DAB9B20BDBA2C002410F1 /* BarsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarsTableViewController.swift; sourceTree = "<group>"; };
+		E28DAB9D20BDBB18002410F1 /* CoffeeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeTableViewController.swift; sourceTree = "<group>"; };
+		E28DAB9F20BDE415002410F1 /* restaurants.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = restaurants.png; sourceTree = "<group>"; };
+		E28DABA320BDE5AA002410F1 /* martini.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = martini.png; sourceTree = "<group>"; };
+		E28DABA520BDE61C002410F1 /* coffee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coffee.png; sourceTree = "<group>"; };
 		E2D74FC520ADF221007888CC /* people.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = people.png; sourceTree = "<group>"; };
 		E2D74FC720ADF41B007888CC /* house.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = house.png; sourceTree = "<group>"; };
 		E2D74FC920ADF585007888CC /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person.png; sourceTree = "<group>"; };
@@ -159,14 +179,24 @@
 			children = (
 				E236912120A22D6E000DD73D /* AppDelegate.swift */,
 				E236912520A22D6E000DD73D /* Main.storyboard */,
+				E28DAB9920BD6035002410F1 /* PlacesTabBarController.swift */,
 				E28DAB8220BB9CF9002410F1 /* SavedHomeTableViewController.swift */,
+				E28DAB9120BD2F44002410F1 /* SearchHomeViewController.swift */,
+				E28DAB9320BD41CB002410F1 /* HomeDetailViewController.swift */,
+				E28DAB9720BD56BC002410F1 /* RestaurantsTableViewController.swift */,
+				E28DAB9B20BDBA2C002410F1 /* BarsTableViewController.swift */,
+				E28DAB9D20BDBB18002410F1 /* CoffeeTableViewController.swift */,
 				E236912320A22D6E000DD73D /* LogInView.swift */,
 				468B6B1E20BCBB99006B9C66 /* ProfileView.swift */,
 				E2D74FCB20ADF680007888CC /* HomeTabView.swift */,
 				E28DAB7E20BB9A95002410F1 /* Home.swift */,
 				E28DAB8020BB9AF8002410F1 /* HomeCell.swift */,
+				E28DAB9520BD4B78002410F1 /* question.png */,
 				E2D74FC920ADF585007888CC /* person.png */,
+				E28DABA320BDE5AA002410F1 /* martini.png */,
 				E2D74FC720ADF41B007888CC /* house.png */,
+				E28DABA520BDE61C002410F1 /* coffee.png */,
+				E28DAB9F20BDE415002410F1 /* restaurants.png */,
 				E2D74FC520ADF221007888CC /* people.png */,
 				E236915520A23656000DD73D /* owls.png */,
 				E28DAB8E20BC8466002410F1 /* GoogleService-Info.plist */,
@@ -304,12 +334,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2D74FC620ADF222007888CC /* people.png in Resources */,
+				E28DABA620BDE61D002410F1 /* coffee.png in Resources */,
+				E28DAB9620BD4B79002410F1 /* question.png in Resources */,
 				E236912C20A22D71000DD73D /* LaunchScreen.storyboard in Resources */,
 				E28DAB8F20BC8466002410F1 /* GoogleService-Info.plist in Resources */,
 				E236915620A23657000DD73D /* owls.png in Resources */,
 				E236912920A22D71000DD73D /* Assets.xcassets in Resources */,
 				E2D74FC820ADF41B007888CC /* house.png in Resources */,
+				E28DABA420BDE5AB002410F1 /* martini.png in Resources */,
 				E236912720A22D6E000DD73D /* Main.storyboard in Resources */,
+				E28DABA020BDE416002410F1 /* restaurants.png in Resources */,
 				E2D74FCA20ADF586007888CC /* person.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -417,10 +451,16 @@
 				E236912420A22D6E000DD73D /* LogInView.swift in Sources */,
 				E28DAB7F20BB9A95002410F1 /* Home.swift in Sources */,
 				E28DAB8320BB9CF9002410F1 /* SavedHomeTableViewController.swift in Sources */,
+				E28DAB9420BD41CB002410F1 /* HomeDetailViewController.swift in Sources */,
 				E28DAB8120BB9AF8002410F1 /* HomeCell.swift in Sources */,
 				E236912220A22D6E000DD73D /* AppDelegate.swift in Sources */,
 				468B6B1F20BCBB99006B9C66 /* ProfileView.swift in Sources */,
+				E28DAB9E20BDBB18002410F1 /* CoffeeTableViewController.swift in Sources */,
+				E28DAB9A20BD6035002410F1 /* PlacesTabBarController.swift in Sources */,
 				E2D74FCC20ADF680007888CC /* HomeTabView.swift in Sources */,
+				E28DAB9220BD2F44002410F1 /* SearchHomeViewController.swift in Sources */,
+				E28DAB9820BD56BC002410F1 /* RestaurantsTableViewController.swift in Sources */,
+				E28DAB9C20BDBA2C002410F1 /* BarsTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -600,7 +640,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Abe.Pods;
+				PRODUCT_BUNDLE_IDENTIFIER = Abe.PodsApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -618,7 +658,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Abe.Pods;
+				PRODUCT_BUNDLE_IDENTIFIER = Abe.PodsApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
