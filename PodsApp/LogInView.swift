@@ -16,7 +16,7 @@ class LogInView: UIViewController
     @IBOutlet weak var passwordText: UITextField!
     @IBOutlet weak var loginButton: UIButton!
     
-    let apiStringHome = "http://www.zillow.com/webservice/GetSearchResults.htm?zws-id=&zpid=X1-ZWz1gdvcuzh9fv_376md&address=979-Goldenrod-Ln&citystatezip=93401"
+    let apiStringHome = "http://www.zillow.com/webservice/GetSearchResults.htm?zws-id=X1-ZWz1gdvcuzh9fv_376md&address=804-Clearview-Ln&citystatezip=93401"
 
     override func viewDidLoad()
     {
