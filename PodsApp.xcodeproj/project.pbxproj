@@ -8,7 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		2BBE9D808DF3F46EFDAB2CB9 /* Pods_PodsAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E3DBEF2251834332A5BAF42 /* Pods_PodsAppTests.framework */; };
-		468B6B1F20BCBB99006B9C66 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 468B6B1E20BCBB99006B9C66 /* ProfileView.swift */; };
+		4687A57A20BD188300D00A44 /* pods.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4687A57920BD188300D00A44 /* pods.jpg */; };
+		4687A58020BD1A0100D00A44 /* profile.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4687A57F20BD1A0100D00A44 /* profile.jpg */; };
+		4687A58420BD2D4700D00A44 /* editProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4687A58320BD2D4700D00A44 /* editProfile.swift */; };
+		4687A58620BD36B000D00A44 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4687A58520BD36B000D00A44 /* User.swift */; };
+		4687A58820BDF0E500D00A44 /* PodsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4687A58720BDF0E500D00A44 /* PodsVC.swift */; };
+		4687A58A20BDF75500D00A44 /* CustomPodCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4687A58920BDF75500D00A44 /* CustomPodCell.swift */; };
+		4687A58C20BDFF9E00D00A44 /* Pod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4687A58B20BDFF9E00D00A44 /* Pod.swift */; };
+		4687A58E20BE078D00D00A44 /* createPod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4687A58D20BE078D00D00A44 /* createPod.swift */; };
+		468B6B1F20BCBB99006B9C66 /* MainProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 468B6B1E20BCBB99006B9C66 /* MainProfileView.swift */; };
 		6189741F2180786D614943B3 /* Pods_PodsApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D7E31E15CAAD371CD3D8E7B /* Pods_PodsApp.framework */; };
 		DA742E3F9AEA985819A2FF8F /* Pods_PodsAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38471B8D11D63E730A908303 /* Pods_PodsAppUITests.framework */; };
 		E236912220A22D6E000DD73D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E236912120A22D6E000DD73D /* AppDelegate.swift */; };
@@ -59,7 +67,15 @@
 /* Begin PBXFileReference section */
 		2E3DBEF2251834332A5BAF42 /* Pods_PodsAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodsAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		38471B8D11D63E730A908303 /* Pods_PodsAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodsAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		468B6B1E20BCBB99006B9C66 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		4687A57920BD188300D00A44 /* pods.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pods.jpg; sourceTree = "<group>"; };
+		4687A57F20BD1A0100D00A44 /* profile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = profile.jpg; path = ../../../../.Trash/profile.jpg; sourceTree = "<group>"; };
+		4687A58320BD2D4700D00A44 /* editProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = editProfile.swift; sourceTree = "<group>"; };
+		4687A58520BD36B000D00A44 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		4687A58720BDF0E500D00A44 /* PodsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodsVC.swift; sourceTree = "<group>"; };
+		4687A58920BDF75500D00A44 /* CustomPodCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPodCell.swift; sourceTree = "<group>"; };
+		4687A58B20BDFF9E00D00A44 /* Pod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pod.swift; sourceTree = "<group>"; };
+		4687A58D20BE078D00D00A44 /* createPod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = createPod.swift; sourceTree = "<group>"; };
+		468B6B1E20BCBB99006B9C66 /* MainProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainProfileView.swift; sourceTree = "<group>"; };
 		4D7E31E15CAAD371CD3D8E7B /* Pods_PodsApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodsApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		56BED33D6E3C32418F7F8C8C /* Pods-PodsAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodsAppTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodsAppTests/Pods-PodsAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		572308AF23DDF08251E9AA3C /* Pods-PodsApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodsApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodsApp/Pods-PodsApp.debug.xcconfig"; sourceTree = "<group>"; };
@@ -179,19 +195,20 @@
 			children = (
 				E236912120A22D6E000DD73D /* AppDelegate.swift */,
 				E236912520A22D6E000DD73D /* Main.storyboard */,
-				E28DAB9920BD6035002410F1 /* PlacesTabBarController.swift */,
-				E28DAB8220BB9CF9002410F1 /* SavedHomeTableViewController.swift */,
-				E28DAB9120BD2F44002410F1 /* SearchHomeViewController.swift */,
-				E28DAB9320BD41CB002410F1 /* HomeDetailViewController.swift */,
-				E28DAB9720BD56BC002410F1 /* RestaurantsTableViewController.swift */,
-				E28DAB9B20BDBA2C002410F1 /* BarsTableViewController.swift */,
-				E28DAB9D20BDBB18002410F1 /* CoffeeTableViewController.swift */,
+				4687A58D20BE078D00D00A44 /* createPod.swift */,
+				4687A58720BDF0E500D00A44 /* PodsVC.swift */,
+				4687A58920BDF75500D00A44 /* CustomPodCell.swift */,
+				4687A58520BD36B000D00A44 /* User.swift */,
+				4687A58B20BDFF9E00D00A44 /* Pod.swift */,
+				4687A58320BD2D4700D00A44 /* editProfile.swift */,
+				468B6B1E20BCBB99006B9C66 /* MainProfileView.swift */,
 				E236912320A22D6E000DD73D /* LogInView.swift */,
-				468B6B1E20BCBB99006B9C66 /* ProfileView.swift */,
+				E28DAB8220BB9CF9002410F1 /* SavedHomeTableViewController.swift */,
 				E2D74FCB20ADF680007888CC /* HomeTabView.swift */,
 				E28DAB7E20BB9A95002410F1 /* Home.swift */,
 				E28DAB8020BB9AF8002410F1 /* HomeCell.swift */,
-				E28DAB9520BD4B78002410F1 /* question.png */,
+				4687A57F20BD1A0100D00A44 /* profile.jpg */,
+				4687A57920BD188300D00A44 /* pods.jpg */,
 				E2D74FC920ADF585007888CC /* person.png */,
 				E28DABA320BDE5AA002410F1 /* martini.png */,
 				E2D74FC720ADF41B007888CC /* house.png */,
@@ -334,14 +351,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2D74FC620ADF222007888CC /* people.png in Resources */,
-				E28DABA620BDE61D002410F1 /* coffee.png in Resources */,
-				E28DAB9620BD4B79002410F1 /* question.png in Resources */,
+				4687A57A20BD188300D00A44 /* pods.jpg in Resources */,
 				E236912C20A22D71000DD73D /* LaunchScreen.storyboard in Resources */,
 				E28DAB8F20BC8466002410F1 /* GoogleService-Info.plist in Resources */,
 				E236915620A23657000DD73D /* owls.png in Resources */,
 				E236912920A22D71000DD73D /* Assets.xcassets in Resources */,
 				E2D74FC820ADF41B007888CC /* house.png in Resources */,
-				E28DABA420BDE5AB002410F1 /* martini.png in Resources */,
+				4687A58020BD1A0100D00A44 /* profile.jpg in Resources */,
 				E236912720A22D6E000DD73D /* Main.storyboard in Resources */,
 				E28DABA020BDE416002410F1 /* restaurants.png in Resources */,
 				E2D74FCA20ADF586007888CC /* person.png in Resources */,
@@ -450,13 +466,16 @@
 			files = (
 				E236912420A22D6E000DD73D /* LogInView.swift in Sources */,
 				E28DAB7F20BB9A95002410F1 /* Home.swift in Sources */,
+				4687A58A20BDF75500D00A44 /* CustomPodCell.swift in Sources */,
+				4687A58C20BDFF9E00D00A44 /* Pod.swift in Sources */,
+				4687A58E20BE078D00D00A44 /* createPod.swift in Sources */,
+				4687A58820BDF0E500D00A44 /* PodsVC.swift in Sources */,
 				E28DAB8320BB9CF9002410F1 /* SavedHomeTableViewController.swift in Sources */,
-				E28DAB9420BD41CB002410F1 /* HomeDetailViewController.swift in Sources */,
+				4687A58420BD2D4700D00A44 /* editProfile.swift in Sources */,
 				E28DAB8120BB9AF8002410F1 /* HomeCell.swift in Sources */,
+				4687A58620BD36B000D00A44 /* User.swift in Sources */,
 				E236912220A22D6E000DD73D /* AppDelegate.swift in Sources */,
-				468B6B1F20BCBB99006B9C66 /* ProfileView.swift in Sources */,
-				E28DAB9E20BDBB18002410F1 /* CoffeeTableViewController.swift in Sources */,
-				E28DAB9A20BD6035002410F1 /* PlacesTabBarController.swift in Sources */,
+				468B6B1F20BCBB99006B9C66 /* MainProfileView.swift in Sources */,
 				E2D74FCC20ADF680007888CC /* HomeTabView.swift in Sources */,
 				E28DAB9220BD2F44002410F1 /* SearchHomeViewController.swift in Sources */,
 				E28DAB9820BD56BC002410F1 /* RestaurantsTableViewController.swift in Sources */,
