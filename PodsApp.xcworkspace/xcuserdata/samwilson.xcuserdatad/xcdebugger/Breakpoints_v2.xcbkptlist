@@ -10,13 +10,340 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PodsApp/ProfileView.swift"
-            timestampString = "549264716.182758"
+            timestampString = "549314464.427739"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "10"
             endingLineNumber = "10"
             landmarkName = "MainProfileView"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.__deallocating_deinit"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267869.853948"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PodsApp.MainProfileView"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267869.857071"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PodsApp.MainProfileView"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267869.85966"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;PodsApp.MainProfileView&gt;"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267869.862582"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;PodsApp.MainProfileView&gt;"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267869.865368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodsApp/ProfileEdit.swift"
+            timestampString = "549272133.6408091"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.profileEdit.__deallocating_deinit"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileEdit.swift"
+                  timestampString = "549267869.87763"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.profileEdit.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PodsApp.profileEdit"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileEdit.swift"
+                  timestampString = "549267869.880415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.profileEdit.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PodsApp.profileEdit"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileEdit.swift"
+                  timestampString = "549267869.883233"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.profileEdit.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;PodsApp.profileEdit&gt;"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileEdit.swift"
+                  timestampString = "549267869.8866169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.profileEdit.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;PodsApp.profileEdit&gt;"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileEdit.swift"
+                  timestampString = "549267869.890087"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodsApp/ProfileView.swift"
+            timestampString = "549314464.427848"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.__deallocating_deinit"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267887.159505"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PodsApp.MainProfileView"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267887.16354"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PodsApp.MainProfileView"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267887.166422"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;PodsApp.MainProfileView&gt;"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267887.168753"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodsApp.MainProfileView.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;PodsApp.MainProfileView&gt;"
+                  moduleName = "PodsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samwilson/csc436/project/PodsAppProject/PodsApp/ProfileView.swift"
+                  timestampString = "549267887.170706"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodsApp/ProfileView.swift"
+            timestampString = "549314464.427914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodsApp/ProfileView.swift"
+            timestampString = "549314464.4279751"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MainProfileView"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodsApp/ProfileView.swift"
+            timestampString = "549314464.428036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MainProfileView"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodsApp/ProfileView.swift"
+            timestampString = "549314464.428094"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -25,12 +352,14 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "PodsApp/ProfileView.swift"
-            timestampString = "549264716.182843"
+            filePath = "PodsApp/PodsVC.swift"
+            timestampString = "549327832.0937769"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41">
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

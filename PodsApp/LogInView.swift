@@ -9,8 +9,8 @@
 import UIKit
 import GeoFire
 
-class LogInView: UIViewController
-{
+class LogInView : UIViewController {
+    
     @IBOutlet weak var owlsArt: UIImageView!
     @IBOutlet weak var usernameText: UITextField!
     @IBOutlet weak var passwordText: UITextField!
