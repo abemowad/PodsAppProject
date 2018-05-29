@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		2BBE9D808DF3F46EFDAB2CB9 /* Pods_PodsAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E3DBEF2251834332A5BAF42 /* Pods_PodsAppTests.framework */; };
+		4687A57A20BD188300D00A44 /* pods.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4687A57920BD188300D00A44 /* pods.jpg */; };
+		4687A58020BD1A0100D00A44 /* profile.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4687A57F20BD1A0100D00A44 /* profile.jpg */; };
 		468B6B1F20BCBB99006B9C66 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 468B6B1E20BCBB99006B9C66 /* ProfileView.swift */; };
 		6189741F2180786D614943B3 /* Pods_PodsApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D7E31E15CAAD371CD3D8E7B /* Pods_PodsApp.framework */; };
 		DA742E3F9AEA985819A2FF8F /* Pods_PodsAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38471B8D11D63E730A908303 /* Pods_PodsAppUITests.framework */; };
@@ -49,6 +51,8 @@
 /* Begin PBXFileReference section */
 		2E3DBEF2251834332A5BAF42 /* Pods_PodsAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodsAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		38471B8D11D63E730A908303 /* Pods_PodsAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodsAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4687A57920BD188300D00A44 /* pods.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pods.jpg; sourceTree = "<group>"; };
+		4687A57F20BD1A0100D00A44 /* profile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = profile.jpg; path = ../../../../.Trash/profile.jpg; sourceTree = "<group>"; };
 		468B6B1E20BCBB99006B9C66 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		4D7E31E15CAAD371CD3D8E7B /* Pods_PodsApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodsApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		56BED33D6E3C32418F7F8C8C /* Pods-PodsAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodsAppTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodsAppTests/Pods-PodsAppTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -165,6 +169,8 @@
 				E2D74FCB20ADF680007888CC /* HomeTabView.swift */,
 				E28DAB7E20BB9A95002410F1 /* Home.swift */,
 				E28DAB8020BB9AF8002410F1 /* HomeCell.swift */,
+				4687A57F20BD1A0100D00A44 /* profile.jpg */,
+				4687A57920BD188300D00A44 /* pods.jpg */,
 				E2D74FC920ADF585007888CC /* person.png */,
 				E2D74FC720ADF41B007888CC /* house.png */,
 				E2D74FC520ADF221007888CC /* people.png */,
@@ -304,11 +310,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2D74FC620ADF222007888CC /* people.png in Resources */,
+				4687A57A20BD188300D00A44 /* pods.jpg in Resources */,
 				E236912C20A22D71000DD73D /* LaunchScreen.storyboard in Resources */,
 				E28DAB8F20BC8466002410F1 /* GoogleService-Info.plist in Resources */,
 				E236915620A23657000DD73D /* owls.png in Resources */,
 				E236912920A22D71000DD73D /* Assets.xcassets in Resources */,
 				E2D74FC820ADF41B007888CC /* house.png in Resources */,
+				4687A58020BD1A0100D00A44 /* profile.jpg in Resources */,
 				E236912720A22D6E000DD73D /* Main.storyboard in Resources */,
 				E2D74FCA20ADF586007888CC /* person.png in Resources */,
 			);
@@ -600,7 +608,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Abe.Pods;
+				PRODUCT_BUNDLE_IDENTIFIER = Abe.PodsApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -618,7 +626,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Abe.Pods;
+				PRODUCT_BUNDLE_IDENTIFIER = Abe.PodsApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
